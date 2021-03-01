@@ -1,0 +1,9 @@
+pandas
+matplotlib
+scikit-learn
+numpy
+tensorflow
+torch
+seaborn
+pathlib
+
