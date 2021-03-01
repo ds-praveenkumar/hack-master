@@ -3,11 +3,11 @@
 from pathlib import Path
 import os
 
-""" contains configuration details about the project """
 
 
 class Config:
-
+    """ contains configuration details about the project """
+    
     # file paths
     ROOT = Path( Path.cwd().resolve() )
     RAW = Path( ROOT / 'data' / 'raw' ).as_posix()
