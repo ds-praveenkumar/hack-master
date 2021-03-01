@@ -15,8 +15,8 @@ class Config:
     SUBMISSION = Path(ROOT / 'data' / "submission" ).as_posix()
     MODELS = Path( ROOT / 'models' ).as_posix()
 
-    # models configs
-
+    # data configs
+    TARGET = 'Response'
     
 
 
