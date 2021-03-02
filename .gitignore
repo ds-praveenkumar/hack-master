@@ -3,10 +3,11 @@ __pycache__/
 *.py[cod]
 *$py.class
 reports/*.csv
-
+data/preprocessed/*.csv
 # C extensions
 *.so
 .vscode 
+catboost_info
 # Distribution / packaging
 .Python
 build/
